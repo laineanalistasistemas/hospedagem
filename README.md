@@ -45,3 +45,12 @@ Criado por **Regilaine Souza**, este sistema simula o processo de **reserva de s
 ```bash
 Quantidade de hóspedes: 2
 Valor total da reserva: R$ 1296,00
+
+
+🧑‍💻 Autora
+
+Regilaine Souza da Silva
+Desenvolvedora .NET | Educadora | Apaixonada por tecnologia e inovação 💙
+📍 LinkedIn Regilaine Souza da Silva
+
+📂 Desafio Técnico DIO + Avanade
